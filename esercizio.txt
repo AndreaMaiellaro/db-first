@@ -1,0 +1,10 @@
+Auto
+ 
+Marca: VARCHAR(20) - NOTNULL
+Modello: VARCHAR(20) - NOTNULL
+Anno: YEAR 
+Km Percorsi: MEDIUMINT 
+Ha avuto incidenti?: TEXT - NOTNULL
+Prezzo: MEDIUMINT - NOTNULL
+Proprietari avuti: MEDIUMINT - NOTNULL
+Descrizione: TEXT - NOTNULL
